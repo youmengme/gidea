@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://youmengme.github.com</id>
+    <id>https://youmengme.github.io/gidea</id>
     <title>youmeng - 又双叒叕写博客</title>
-    <updated>2021-07-28T15:29:38.264Z</updated>
+    <updated>2021-07-28T15:29:55.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://youmengme.github.com"/>
-    <link rel="self" href="https://youmengme.github.com/atom.xml"/>
+    <link rel="alternate" href="https://youmengme.github.io/gidea"/>
+    <link rel="self" href="https://youmengme.github.io/gidea/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://youmengme.github.com/images/avatar.png</logo>
-    <icon>https://youmengme.github.com/favicon.ico</icon>
+    <logo>https://youmengme.github.io/gidea/images/avatar.png</logo>
+    <icon>https://youmengme.github.io/gidea/favicon.ico</icon>
     <rights>All rights reserved 2021, youmeng - 又双叒叕写博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://youmengme.github.com/post/hello-gridea/</id>
-        <link href="https://youmengme.github.com/post/hello-gridea/">
+        <id>https://youmengme.github.io/gidea/post/hello-gridea/</id>
+        <link href="https://youmengme.github.io/gidea/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
